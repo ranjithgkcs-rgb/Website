@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina Kitchen AI",
+  "description": "An intelligent culinary companion that helps you discover recipes, manage ingredients, and cook with a real-time AI Chef assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
